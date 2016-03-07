@@ -1,0 +1,15 @@
+Projects Plugin :-
+
+
+cordova plugin add org.apache.cordova.statusbar
+
+cordova plugin add cordova-plugin-media
+
+cordova plugin add net.yoik.cordova.plugins.screenorientation
+
+cordova plugin add org.apache.cordova.network-information
+
+
+plugin add https://github.com/katzer/cordova-plugin-background-mode.git
+
+plugin add cordova-plugin-whitelist
